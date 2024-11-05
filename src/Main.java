@@ -3,7 +3,7 @@ public class Main {
         //задание 1
         int myInt = 26036;
         System.out.println("Значение переменной myInt с типом int равно " + myInt + ".");
-        byte myByte = 75;
+        byte myByte = 86;
         System.out.println("Значение переменной myByte с типом byte равно " + myByte + ".");
         short myShort = 1977;
         System.out.println("Значение переменной myShort с типом short равно " + myShort + ".");
